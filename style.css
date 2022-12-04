@@ -36,6 +36,10 @@ body{
     background-color: white;
     border: 1px solid #e0e2e7;
     border-radius: 4px;
+    display: flex;
+    justify-content: start;
+    padding: 8px 0 8px 8px;
+    transition: background-color 200ms ease-in-out;
     
 }
 .dropdown-select:hover{
@@ -55,7 +59,7 @@ body{
     max-height: 0px;
     overflow: hidden;
     background-color: white;
-    
+    transition: max-height 200ms ease-out;
 
 }
 .dropdown-list.is-active{
@@ -64,6 +68,7 @@ body{
 }
 
 .dropdown-item{
+
     height: 36px;
     width: 100%;
     border: 1px solid #e0e2e7;
@@ -77,6 +82,9 @@ body{
     height: 100%;
     background-color: white;
     border: none;
+    display: flex;
+    padding: 8px 0 8px 8px;
+    
 }
 .dropdown-option:hover{
     background-color: beige;
