@@ -9,7 +9,7 @@
 
 
 
-<p align='center'>Vanilla JS로 연습 하는 드랍다운 예제 연습</p>
+<p align='center'>Vanilla JS로 연습 하는 드랍다운 예제 연습!</p>
 <p align="middle">
   <img src="https://img.shields.io/badge/language-html-red.svg?style=flat-square"/>
   <img src="https://img.shields.io/badge/language-css-blue.svg?style=flat-square"/>
